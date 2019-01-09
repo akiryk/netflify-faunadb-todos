@@ -40,7 +40,7 @@ fauna delete-key 1232322323
 ### The Fauna Database Structure
 
 Structure Hierarchy | Description
---- | ---
+------------------- | -------------------
 Database | A grouping of classes.
 Class | A grouping of relatable instances. Analogous to tables in SQL.
 Instance | A record, this is your actual data. These are structured documents and can include recursively nested objects, arrays, scalar types
